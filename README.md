@@ -1,6 +1,6 @@
 # sql-challenge
 1.Run the schema file first to set up the tables. 
-2.Upload the files in this order
+2.Upload the files in this order 
     1.departments.csv
     2.titles.csv
     3.employees.csv
